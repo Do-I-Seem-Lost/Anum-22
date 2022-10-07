@@ -1,3 +1,4 @@
 # Anum-22
 
-I really need to be better about finishing up.
+This has turned into an annual practice project for me.
+I will fill in the details as I suss them out.
